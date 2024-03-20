@@ -12,3 +12,5 @@ else
     echo "Another type"
     exit 2
 fi
+
+echo "copyright@suju"

@@ -13,3 +13,5 @@ else
     echo "$FILE does not exist."
 fi
 
+echo "copyright@suju"
+

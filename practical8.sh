@@ -12,3 +12,5 @@ else
 fi
 
 ls -l "$FILE"
+
+echo "copyright@suju"

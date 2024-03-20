@@ -17,3 +17,5 @@ do
     ls -l "$FILE"
 done
 
+
+echo "copyright@suju"
